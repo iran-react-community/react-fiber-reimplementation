@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5rem;
+}
+
+button {
+  padding: 2.5rem;
+  font-size: 2rem;
+  margin: auto;
+}
